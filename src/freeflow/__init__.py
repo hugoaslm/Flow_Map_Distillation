@@ -1,0 +1,2 @@
+"""FreeFlow course-project reimplementation."""
+
