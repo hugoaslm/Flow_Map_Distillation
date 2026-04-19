@@ -11,7 +11,7 @@ The project studies how to distill a multi-step generative flow into a one-step 
 - Training, evaluation, plotting, and checkpoint utilities
 - Scripts to reproduce experiments and generate outputs
 
-## Projects' motivations and takeaways
+## Project's motivations and takeaways
 
 This project sits at the intersection of generative modeling, distillation, and efficient inference:
 
